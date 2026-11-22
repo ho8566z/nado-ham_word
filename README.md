@@ -1,8 +1,8 @@
-# 나도 함(nado-ham) 문서
+# nado-ham 문서
 
-![나도 함 표지](images/ppt/cover-banner.png)
+![nado-ham 표지](images/ppt/cover-banner.png)
 
-[나도 함(nado-ham)](https://github.com/ho8566z/nado-ham) 프로젝트의 명세서와 발표 자료를 모아 둔 문서 저장소입니다. (1차 개인 프로젝트, 2026.11.07 ~ 11.12)
+[nado-ham](https://github.com/ho8566z/nado-ham) 프로젝트의 명세서와 발표 자료를 모아 둔 문서 저장소입니다. (1차 개인 프로젝트, 2026.11.07 ~ 11.12)
 
 코드는 [nado-ham](https://github.com/ho8566z/nado-ham) 저장소에 있고, 이 저장소에는 코드를 만들기 전에 정한 기획·설계 문서와 발표 자료만 둡니다.
 
